@@ -1,0 +1,6 @@
+[
+  "tooling/test_tooling.py::test_get_ticker_from_id",
+  "tooling/test_tooling.py::test_does_symbol_exist",
+  "tooling/test_tooling.py::test_get_ticker_id",
+  "tooling/test_tooling.py::test_create_ticker"
+]
