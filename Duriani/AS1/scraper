@@ -1,0 +1,93 @@
+#!/usr/bin/env python3
+
+from selenium import webdriver
+from time import sleep
+from sys import argv
+from signal import signal, SIGINT
+
+
+def signal_handler(sig, frame):
+    exit(0)
+
+def isnumber(n):
+    try:
+        float(n.replace(',', ''))
+    except ValueError:
+        return False
+    return True
+
+def getNumberIndex(l, i):
+    try:
+        float(l[i])
+    except ValueError:
+        return getNumberIndex(l, i+1)
+    return i
+
+
+class Scrappy():
+    def __init__(self, arg):
+        self.driver = webdriver.Chrome()
+        self.driver.get(f'https://wits.worldbank.org/CountryProfile/en/Country/{arg}/Year/2017/TradeFlow/Export/Partner/by-country')
+
+    def __enter__(self):
+        return self
+
+    def scrap_isocode(self, save):
+        table = self.driver.find_element_by_xpath('.//div[@id="contenttablejqx-PartnerGrid"]')
+        rows = table.find_elements_by_xpath('./div[@role="row"]')
+        cells = [r.find_elements_by_xpath('./div[@role="gridcell"]') for r in rows][0:4]
+        countries = []
+        amounts = []
+
+        for cell in cells:
+            try:
+                div = cell[3].find_element_by_xpath('./div')
+                amounts.append(div.text)
+            except:
+                pass
+            for c in cell:
+                for a in c.find_elements_by_xpath('./a'):
+                    countries.append(a.text)
+
+        assert(len(countries) > 0 and len(amounts) > 0)
+
+        for (country, amount) in zip(countries, amounts):
+            print(f'> {country} {amount}')
+            if save:
+                with open('result.csv', 'a') as fd:
+                    fd.write(f'{country}, {amount}\n')
+    
+    def __exit__(self, exc_type, exc_value, traceback):
+        self.driver.close()
+
+
+if __name__ == "__main__":
+    signal(SIGINT, signal_handler)
+    try:
+        saveAtEnd = False
+        arg = argv[1]
+        if len(argv) == 3 and argv[2] == 'save':
+            print('> saving results to results.csv')
+            saveAtEnd = True
+        if arg != 'all':
+            with Scrappy(arg) as scrappy:
+                try:
+                    with open('result.csv', 'a') as fd:
+                        fd.write(f'\n{arg}\n')
+                    scrappy.scrap_isocode(save=saveAtEnd)
+                except AssertionError:
+                    print('Invalid ISO Code !')
+                    exit(1)
+        else:
+            while (1):
+                arg = input()
+                with Scrappy(arg) as scrappy:
+                    try:
+                        with open('result.csv', 'a') as fd:
+                            fd.write(f'\n{arg}\n')
+                        scrappy.scrap_isocode(save=saveAtEnd)
+                    except AssertionError:
+                        print('Invalid ISO Code !')
+    except IndexError:
+        print('One argument need to be specified !')
+        exit(1)

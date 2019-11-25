@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+
+import webbrowser
+import os
+
+ls = [] # ('USD', 1), ('GBP', 0.8185), ('CAD', 1.32978), ('EUR', 0.90221), ('AUD', 1.48313)]
+print('Leave blank and [ENTER] for stop.')
+while (1):
+    i = input('Enter the currency name and its value (ex: USD 1.12):\n')
+    if i == '':
+        break
+    try:
+        l = i.split(' ')[0]
+        s = float(i.split(' ')[1])
+        ls.append((l, s))
+    except IndexError:
+        print('You should specify value like this: [USD 1.12] !')
+    except ValueError:
+        print('You should specify value like this: [USD 1.12] !')
+
+matrix = {key: [] for (key, value) in ls}
+
+for (i, ei) in enumerate(ls):
+    for (y, ey) in enumerate(ls):
+        matrix[ei[0]].append((ey[1] * 100) / (ei[1] * 100))
+
+html_str = """
+    <table>
+        <tr>
+            <th>Currency</th>
+"""
+for m in matrix:
+    html_str += f"""
+        <th>{m}</th>
+    """
+html_str += "</tr>"
+
+for m in matrix:
+    html_str += f"""
+        <tr>
+            <th>{m}</th>
+    """
+    for v in matrix[m]:
+        html_str += f"""
+            <td>{"%.5f" % v}</td>
+        """
+    html_str += f"""
+        </tr>
+    """
+
+filename = "currencyMatrix.html"
+file = open(filename, "w")
+file.write(html_str)
+file.close()
+
+webbrowser.open('file://' + os.path.realpath(filename))
