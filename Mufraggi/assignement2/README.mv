@@ -1,0 +1,11 @@
+# Assignement 1
+
+### How to start the project
+
+Normally you have the venv with all dépendency. you have just to import the Venv.
+
+     python assignement2.py
+
+### Output 
+
+    Your internet navigator has open with the curbe.

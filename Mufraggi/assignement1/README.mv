@@ -1,0 +1,15 @@
+# Assignement 1
+
+### How to start the project
+
+Normally you have the venv with all dépendency. you have just to import the Venv.
+
+     python tests/exercice1.py JPN
+
+### Output 
+
+     East Asia & Pacific 93.38
+     China 84.95
+     Europe & Central Asia 90.56
+     North America 80.43
+
