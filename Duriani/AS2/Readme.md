@@ -1,5 +1,5 @@
 > python3 equilibrium
 
-> ./equilibrium
+> chmod + x equilibrium ; ./equilibrium
 
 Considering a **data.csv** in the same directory
