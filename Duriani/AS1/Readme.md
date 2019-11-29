@@ -2,4 +2,4 @@
 
 > ./scrapper <iso_code> [all | save]
 
-> ctrl-c to stop with <all> parameter
+ctrl-c to stop with **all** parameter
