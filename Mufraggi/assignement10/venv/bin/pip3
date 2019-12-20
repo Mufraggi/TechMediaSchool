@@ -1,4 +1,4 @@
-#!/home/mufraggi/epitech/NewMediaSchool/assignement10/venv/bin/python
+#!/home/mufraggi/epitech/NewMediaSchool/realAssignement10/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip3'
 __requires__ = 'pip==19.0.3'
 import re

@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13d6624-be25-4d07-bb72-abe7c9a6393b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../assignement10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement8/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium9/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement1/oui" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignement10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement2/exo2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement2/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement3/assignement3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement3/assignement3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement5/assignement5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement5/assignement5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement7/.idea/Assignment7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement7/.idea/Assignment7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenium9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignement6.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignement6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../realAssignement10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../realAssignement10/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignement6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-321">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="-547">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -50,12 +27,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="36" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,16 +67,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/assignement6.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/assignement6.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="17" />
+    <option name="y" value="19" />
     <option name="width" value="926" />
-    <option name="height" value="1062" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -107,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +96,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,17 +142,21 @@
       <workItem from="1573758672942" duration="26000" />
       <workItem from="1574094704796" duration="16000" />
       <workItem from="1574266373480" duration="29000" />
-      <workItem from="1574698046599" duration="1832000" />
+      <workItem from="1574698046599" duration="2034000" />
+      <workItem from="1575484138053" duration="11000" />
+      <workItem from="1575494618570" duration="13000" />
+      <workItem from="1575995770294" duration="83000" />
+      <workItem from="1576851367861" duration="137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20624000" />
+    <option name="totallyTimeSpent" value="21070000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="17" width="926" height="1062" extended-state="4" />
+    <frame x="67" y="17" width="1853" height="1062" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15454546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08190371" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -189,7 +170,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33513513" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33513513" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -240,16 +221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignement6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-321">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -263,10 +234,20 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="36" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="36" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignement6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

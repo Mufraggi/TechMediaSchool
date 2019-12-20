@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69b8034a-1b2b-414a-b748-0cba4a11231d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignement8/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium9/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement1/oui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement2/exo2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement2/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement3/assignement3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement3/assignement3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement5/assignement5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement5/assignement5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement7/.idea/Assignment7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement7/.idea/Assignment7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignement8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignement8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../selenium9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium9/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17489a04-95c0-4e44-bfb1-9fe82de931fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +10,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignement10.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_trading_system/simply.py">
+        <entry file="file://$PROJECT_DIR$/assignement10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="90">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="81" column="118" selection-start-line="81" selection-start-column="118" selection-end-line="81" selection-end-column="118" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orders.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -70,9 +87,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>get_todays_activity</find>
-      <find>get_to</find>
+      <find>listing</find>
+      <find>lvlToChangeValueBuyer</find>
+      <find>result</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Listing</replace>
+      <replace>lvlToChangeValueSeller</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -80,7 +102,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/venv/listing.py" />
+        <option value="$PROJECT_DIR$/listing.py" />
         <option value="$PROJECT_DIR$/assignement10.py" />
+        <option value="$PROJECT_DIR$/Manager.py" />
+        <option value="$PROJECT_DIR$/orders.csv" />
+        <option value="$PROJECT_DIR$/res.csv" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -100,26 +135,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="assignement10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignement10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignement10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignement10" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_trading_system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignement10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignement10" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_trading_system" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignement10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignement10" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_trading_system" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="realAssignement10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="realAssignement10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,10 +148,23 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../realAssignement10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,29 +183,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="69b8034a-1b2b-414a-b748-0cba4a11231d" name="Default Changelist" comment="" />
-      <created>1574173333914</created>
+      <changelist id="17489a04-95c0-4e44-bfb1-9fe82de931fd" name="Default Changelist" comment="" />
+      <created>1574264315385</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574173333914</updated>
-      <workItem from="1574173337445" duration="2266000" />
-      <workItem from="1574181013780" duration="9000" />
-      <workItem from="1574264131517" duration="184000" />
-      <workItem from="1574699717191" duration="161000" />
+      <updated>1574264315385</updated>
+      <workItem from="1574264316711" duration="747000" />
+      <workItem from="1574266391129" duration="6523000" />
+      <workItem from="1574274111758" duration="4745000" />
+      <workItem from="1574359471132" duration="10000" />
+      <workItem from="1574360890433" duration="98000" />
+      <workItem from="1574699879030" duration="433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2620000" />
+    <option name="totallyTimeSpent" value="12556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="17" width="1853" height="1062" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12672938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13281682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -185,7 +218,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3372973" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32864866" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -198,20 +231,63 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/simple_trading_system/simply.py">
+    <entry file="file://$USER_HOME$/Téléchargements/orders.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignement10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="81" column="118" selection-start-line="81" selection-start-column="118" selection-end-line="81" selection-end-column="118" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignement10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+    <entry file="file://$PROJECT_DIR$/orders.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

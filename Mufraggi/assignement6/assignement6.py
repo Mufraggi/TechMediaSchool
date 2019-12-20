@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 def checkCodeProduct(bool):
     if (bool == True):
         print("Your product code doesn't exist")
-    print("Can you try one other product code?")
+    print("Can you try one product code?")
     codeProduct = str(input())
 
     if (len(codeProduct) != 13):
